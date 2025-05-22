@@ -1,0 +1,5 @@
+/NeuroGreen
+  ├── /firmware (Arduino code)
+  ├── /ai_model (Edge Impulse project)
+  ├── /3d_models (Biodome enclosure)
+  └── README.md (Setup guide)

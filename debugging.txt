@@ -1,0 +1,5 @@
+[NeuroGreen] Status Update:
+- Temp: 24.5°C | Humidity: 65%
+- Soil: 45% | Light: 7200 lux
+- Stress Score: 32/100 (Happy)
+- AI Prediction: 😊 Optimal
